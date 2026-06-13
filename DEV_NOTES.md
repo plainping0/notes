@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Fixed minor edge case in input handling
 - Reviewed open issues, added labels
+
+## 2026-06-13
+- Updated license year
